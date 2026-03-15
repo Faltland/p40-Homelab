@@ -1,0 +1,13 @@
+[Unit]
+Description=GPU Fan Control P40-3 (external, Riser 1)
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /usr/local/bin/gpu_fan3.py
+Restart=always
+RestartSec=10
+User=YOUR_USERNAME
+
+[Install]
+WantedBy=multi-user.target
