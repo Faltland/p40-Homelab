@@ -45,7 +45,7 @@ The R730 is a platform that scales — starting with one P40 and expanding to si
 | Single P40 installation | ✅ Done |
 | Fan control (iDRAC override) | ✅ Done |
 | Riser topology documentation | ✅ Done |
-| 3D enclosure designs | 🔄 In progress — horizontal stand v1 ✅, cover v1 ✅, STLs available in `enclosure/` |
+| 3D enclosure designs | 🔄 In progress — vertical stand v1 ✅, cover v1 ✅, STLs available in `enclosure/` |
 | 2× P40 configuration | ⏳ Next |
 | 3× P40 and beyond | ⏳ Planned |
 
