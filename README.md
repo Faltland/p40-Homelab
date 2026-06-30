@@ -1,4 +1,4 @@
-# Up to 7x Tesla P40 in a Dell PowerEdge R730
+# 7x Tesla P40 in a Dell PowerEdge R730 (and counting)
 
 **Current state:** 7x Tesla P40, 168 GB VRAM, all external via custom U-Frame, Arduino-based fan control with self-identifying firmware
 
